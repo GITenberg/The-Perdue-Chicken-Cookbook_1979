@@ -1,0 +1,1728 @@
+**This is a COPYRIGHTED Project Gutenberg Etext, Details Below**
+
+
+The Perdue Chicken Cookbook
+by Mitzi Perdue
+Copyright (C) Mitzi Perdue
+
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+The Perdue Chicken Cookbook
+by Mitzi Perdue
+Copyright (C) Mitzi Perdue
+
+November, 1999  [Etext #1979]
+
+
+Project Gutenberg Etext The Perdue Chicken Cookbook, by Mitzi Perdue
+********This file should be named mitzi10.txt or mitzi10.zip********
+
+Corrected EDITIONS of our etexts get a new NUMBER, mitzi11.txt
+VERSIONS based on separate sources get new LETTER, mitzi10a.txt
+
+This Etext prepared by Mitzi Perdue <mitzi@eggscape.com>
+
+We are now trying to release all our books one month in advance
+of the official release dates, for time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+fifty hours is one conservative estimate for how long it we take
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-two text
+files per month, or 384 more Etexts in 1998 for a total of 1500+
+If these reach just 10% of the computerized population, then the
+total should reach over 150 billion Etexts given away.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only 10% of the present number of computer users.  2001
+should have at least twice as many computer users as that, so it
+will require us reaching less than 5% of the users in 2001.
+
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+
+We would prefer to send you this information by email
+(Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
+
+******
+If you have an FTP program (or emulator), please
+FTP directly to the Project Gutenberg archives:
+[Mac users, do NOT point and click. . .type]
+
+ftp uiarchive.cso.uiuc.edu
+login:  anonymous
+password:  your@login
+cd etext/etext90 through /etext96
+or cd etext/articles [get suggest gut for more information]
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET INDEX?00.GUT
+for a list of books
+and
+GET NEW GUT for general information
+and
+MGET GUT* for newsletters.
+
+
+**Information prepared by the Project Gutenberg legal advisor**
+(Three Pages)
+
+***START** SMALL PRINT! for COPYRIGHT PROTECTED ETEXTS ***
+TITLE AND COPYRIGHT NOTICE:
+
+The Perdue Chicken Cookbook
+by Mitzi Perdue
+Copyright (C) Mitzi Perdue
+
+This etext is distributed by Professor Michael S. Hart through
+the Project Gutenberg Association at Carnegie-Mellon University
+(the "Project") under the Project's "Project Gutenberg" trademark
+and with the permission of the etext's copyright owner.
+
+LICENSE
+You can (and are encouraged!) to copy and distribute this
+Project Gutenberg-tm etext.  Since, unlike many other of the
+Project's etexts, it is copyright protected, and since the
+materials and methods you use will effect the Project's
+reputation,
+your right to copy and distribute it is limited by the copyright
+laws and by the conditions of this "Small Print!" statement.
+
+  [A]  ALL COPIES: The Project permits you to distribute
+copies of this etext electronically or on any machine readable
+medium now known or hereafter discovered so long as you:
+
+     (1)  Honor the refund and replacement provisions of this
+"Small Print!" statement; and
+
+     (2)  Pay a royalty to the Project of 20% of the net
+profits you derive calculated using the method you already use
+to calculate your applicable taxes.  If you don't derive
+profits, no royalty is due.  Royalties are payable to "Project
+Gutenberg Association/Carnegie Mellon-University" within
+the 60 days following each date you prepare (or were legally
+required to prepare) your annual (or equivalent periodic) tax
+return.
+
+  [B]  EXACT AND MODIFIED COPIES: The copies you distribute
+must either be exact copies of this etext, including this
+Small Print statement, or can be in binary, compressed, mark-
+up, or proprietary form (including any form resulting from
+word processing or hypertext software), so long as *EITHER*:
+
+     (1)  The etext, when displayed, is clearly readable, and
+does *not* contain characters other than those intended by the
+author of the work, although tilde (~), asterisk (*) and
+underline (_) characters may be used to convey punctuation
+intended by the author, and additional characters may be used
+to indicate hypertext links; OR
+
+     (2)  The etext is readily convertible by the reader at no
+expense into plain ASCII, EBCDIC or equivalent form by the
+program that displays the etext (as is the case, for instance,
+with most word processors); OR
+
+     (3)  You provide or agree to provide on request at no
+additional cost, fee or expense, a copy of the etext in plain
+ASCII.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+This etext may contain a "Defect" in the form of incomplete,
+inaccurate or corrupt data, transcription errors, a copyright
+or other infringement, a defective or damaged disk, computer
+virus, or codes that damage or cannot be read by your
+equipment.  But for the "Right of Replacement or Refund"
+described below, the Project (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext)
+disclaims all liability to you for damages, costs and
+expenses, including legal fees, and YOU HAVE NO REMEDIES FOR
+NEGLIGENCE OR UNDER STRICT LIABILITY, OR FOR BREACH OF
+WARRANTY OR CONTRACT, INCLUDING BUT NOT LIMITED TO INDIRECT,
+CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES, EVEN IF YOU
+GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.  Some states do not allow disclaimers of
+implied warranties or the exclusion or limitation of
+consequential damages, so the above disclaimers and exclusions
+may not apply to you, and you may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.  The Project gratefully accepts
+contributions in money, time, scanning machines, OCR software,
+public domain etexts, royalty free copyright licenses,
+and whatever else you can think of.  Money should be paid to
+"Project Gutenberg Association/Carnegie-Mellon University".
+
+*SMALL PRINT! Ver.04.29.93 FOR COPYRIGHT PROTECTED ETEXTS*END*
+
+
+
+
+
+This Etext prepared by Mitzi Perdue <mitzi@eggscape.com>
+
+
+
+
+
+The Perdue Chicken Cookbook
+by Mitzi Perdue
+Copyright (C) Mitzi Perdue
+
+
+
+
+
+
+
+
+From: "Mitzi Perdue" <mitzi@eggscape.com>
+
+
+The Perdue Chicken Cookbook
+by Mitzi Perdue
+Copyright (C) Mitzi Perdue
+
+
+
+
+
+Preface: Why I Chickened Out
+
+Introduction:  You Don't Need to Wing It!
+Let Frank Take You Under His.
+Everything You Wanted or Needed to Know about
+Selecting, Storing and Cooking Chicken
+
+Chapter 1.  Chicken for Everyday
+Tips on Cooking in a Hurry,
+plus: Quick Recipes,
+Simple Recipes,
+and Family Favorites
+
+Chapter 2.  Chicken for the Microwave
+Tips for Using the Microwave,
+plus: Quick Microwave Recipes,
+and Classic Recipes Adapted for the Microwave
+
+Chapter 3.  Chicken for Dieters
+Tips for Dieters,
+plus: Low Calorie, Low Cholesterol Recipes
+
+Chapter 4.  Chicken for Children
+Tips on Cooking for Kids,
+plus: Recipes for Kids to Eat
+and Recipes for Kids to Cook
+
+Chapter 5.  Chicken for Barbecuing
+Tips for Cooking Outdoors,
+plus Recipes for Barbecuing
+
+Chapter 6.  Chicken for Crowds
+Tips on Quantity Cooking,
+plus Recipes for Crowds
+
+Chapter 7.  Chicken for Tomorrow-or Next Week
+Tips on Storing and Freezing,
+plus Cook Ahead Recipes
+
+Chapter 8.  Chicken for Holidays
+Chicken and Holiday Cooking,
+plus: Menus and Recipes for
+the Chinese New Year,
+Valentine's Day,
+Mother's Day,
+Fourth of July,
+Thanksgiving,
+Chanukah,
+and Christmas
+
+Chapter 9.  Chicken for Important Occasions
+Chicken for When You Want Something Different and Exciting,
+plus Show Stopper Recipes
+
+Chapter 10. Chicken for Planovers
+Tips on Food Safety,
+plus Recipes for the Rest of the Bird
+
+Conclusion: A Rare Bird
+What Frank Is Really Like
+
+
+
+Acknowledgements
+
+
+I've often thought that inspiration is one of the greatest gifts one person
+can give another, and there are several people who were an inspiration in
+writing this book. First is a woman whom I would term the Godmother of this
+book, Connie Littleton, the Director of Advertising and Marketing Services
+at Perdue. She is a woman totally committed to excellence, and if that
+commitment to excellence meant she had to read and edit until the wee hours
+of the morning, she always did it as if it were a matter of course. With
+each passing day, I gained increasing respect for her professionalism,
+judgment and knowledge. Bev Cox, a home economist and food stylist, was an
+inspiration for her meticulous attention to detail, her enthusiasm, and her
+unfailing good humor no matter what.  Beth Fusaro, who typed most of the
+recipes in this book, is a Renaissance Woman, who knows not only about food
+and typing, but also about everything from making pottery to preserving the
+environment.  It's been a privilege to work with Beth.  Gretchen Barnes, who
+assisted Bev Cox in editing, learned a whole new computer program, Word
+Perfect, in order to get the job done quickly. Sharon Sakemiller, who is
+already a Word Perfect expert, also helped with typing and retyping recipes.
+She impressed everyone with how rapidly she could get things done.
+
+My sincere thanks to the members of American Agri-Women who over the years
+have shared their food tips with me.  Also, deepest thanks to the U.S.
+Department of Agriculture's Cooperative Extension. One of Cooperative
+Extension's major activities is helping to educate consumers, and I owe
+Cooperative Extension a deep debt of gratitude for the education I've
+received through their many publications, broadcasts, classes, seminars,
+meetings, and personal contacts. The following Cooperative Extension
+members-many of whom are good friends as well as professional
+colleagues-have been invaluable resources for food tips and food knowledge:
+Dorothy Thurber, Kathryn Boor, Christine Bruhn, Ellen Pusey, Sally Foulke,
+Bonnie Tanner, Bettie Collins, Sue Snyder, Chuck Waybeck, and George York.
+Also thanks to Dot Tringali of the National Broiler Council, to Connie
+Parvis of the Delmarva Poultry Industry, to Joy Schrage from the Whirlpool
+Corporation, and Lisa Readie from the Barbecue Industry Association.
+
+
+
+PREFACE
+
+WHY I CHICKENED OUT
+
+Want to know a high stress situation?  Try being a food writer and cookbook
+author, and then marry Frank Perdue.  You come home from the honeymoon,
+everything has been wonderful and then...it's time to Cook the First Meal!
+Frank wants to eat chicken and you're supposed to be a good cook.
+
+I remember that afternoon so vividly. I knew he'd be coming home around
+six and that he'd be hungry.  Now up until that day, I had always felt
+fairly confident in the kitchen.  After all, I love cooking and trying new
+recipes is my favorite pastime.  But cooking chicken for Frank Perdue?  I
+began to get stage fright.  As I was trying to find where the pots and pans
+were in his kitchen, I started calculating that there were probably few
+people in the world who've eaten chicken more times than my husband.
+"He's been eating chicken almost daily for  his entire life" I thought,
+"he likes it, he cares about it, and my cooking is about to be judged
+by a world class expert."
+
+As I rummaged around looking for the right herbs and spices-and couldn't
+find the ones I liked - my stage fright grew worse. "This man must be one of
+the world's greatest experts on cooked chicken," I thought to myself.  "He's
+attended dozens and dozens of chicken cooking contests, he's been part of
+hundreds and hundreds of taste testings for Perdue products.  Everywhere he
+goes, people know he likes chicken and the best chefs and hostesses in the
+world have served it to him."  In my mind I ran through some of the times
+when together we'd driven an hour out of the way to go to a restaurant that
+cooked chicken particularly well, and how he always seemed to have lists of
+the restaurants he wanted to visit.
+
+Help!  My stage fright was getting still worse.  The thirty year old oven
+didn't seem to be heating right, but I couldn't be sure because there wasn't
+any oven thermometer.  The "elbow test," which our grandmothers used to use
+before the days of thermometers (you stick your elbow in the oven and feel
+how hot it is), told me that things weren't right, but I didn't know how far
+off the oven was so I didn't know how to compensate.  As I rubbed my elbow
+with my other hand, I thought of Frank's reputation for being demanding.  If
+you've seen the ad that we call "Boot Camp," you know what I mean.  (He
+plays the part of a drill sergeant in this ad and teaches the new Perdue
+recruits the 57 quality points that they have to inspect -- and then he's
+all over one recruit for missing what seems like an invisibly small hair.)
+
+It's a funny thing, but when you start losing your confidence, you start
+asking some basic questions about what you're doing.  Part of me was saying
+that cooking chicken is pretty simple; after all, I'd been doing it for most
+of my life. But another part of me realized when attempting to cook chicken
+for Frank the first time, that I knew very little of the basics of cooking
+chicken.  Like, for example, what makes a chicken tender?  How do you
+really know when it's done-and not over done?  How do you get the best
+flavor?  Should you salt before or after cooking?
+
+In desperation, I made a two-part promise to myself.  First, I'd let myself
+take the easy way out that first meal, and not even try to cook the chicken
+myself.  Instead, dinner would be a never-fail salad,  pasta (Frank loves
+pasta),  plus store-bought fully-cooked Perdue Tenders.  In return for
+letting myself off so easily, I'd make it my business from then on to learn
+how to make the best chicken every time.  That meant asking Frank every
+question that popped into my head;  checking with the food technologists who
+work for Perdue; getting tips from the farmers who grew the Perdue chickens;
+and systematically going through the thousands of recipes that Frank has in
+his files, trying a different one each night.
+
+Dinner that night wasn't the show piece I would have liked to create, but
+it was good enough and Frank happens to love his own Tenders so the chicken
+part of the meal was a success.  In the time since, I've tried to live up to
+the second part of the promise, the one about learning how to serve the best
+chicken every time.
+
+In this book, I'd like to share with you the most useful cooking tips and
+the most appealing, most successful recipes developed by Perdue Farms over
+the last twenty years.  The first chapter contains the kinds of information
+I wished I'd known from the beginning.  You don't need to read this chapter,
+because chicken isn't that hard to cook; but there are tips in it that can
+save you time and money and that can enable you to cook with greater
+confidence.  This chapter also has the latest tips on food safety.
+
+The remaining chapters are organized, not by method of cooking or whether
+the food is an appetizer or salad or whatnot; but rather by the kind of
+occasion you're facing.  You want to put some spark and variety into every
+day meals? You want to make the most of your microwave? Or you're in a hurry
+today?  Maybe you need something that will please kids?  Or you're dieting?
+You've got a bunch of leftovers?  You have to cook for a hundred people
+tomorrow night?  I tried to think of the kinds of situations in which you
+could need recipes and then I organized Frank's recipes around them.  Jean
+Brillat-Savarin, the famous French gourmet, once said,  "A chicken to a cook
+is like a canvas to a painter."  Enjoy the recipes and tips that follow, and
+may they help you to feel the creativity and confidence that make cooking
+fun and eating a joy!
+
+
+
+YOU DON'T HAVE TO WING IT!
+LET FRANK TAKE YOU UNDER HIS.
+
+Everything You Wanted or Needed to Know about Cooking Chicken
+
+Frank gets roughly 40,000 consumer letters a year.  Half of these are
+requests for pamphlets, but many of the others are requests for
+information on selecting, storing, serving, or cooking his products.
+
+These letters are tremendously important to Frank.  Often I've been with
+him when he has a few extra minutes, such as waiting for an airplane, and
+he'll dash to a pay phone to answer one of the letters with a phone call.
+He also likes to attend store openings or conventions or other public places
+because he genuinely wants to hear what people are thinking. One of the
+marketing men once told me that he was embarrassed about a day he had
+planned for Frank because it included meetings with people who owned just a
+few stores.  When I passed this on to Frank, he answered that these were
+some of the best meetings because the owners of the smaller stores were so
+close to their customers.  He went on to say that the reason he likes to
+visit butchers (and in New York, he's called on as many as 30 in two days)
+is that these men are close to the needs and wants of their customers and he
+can learn things from them that he'd learn in no other way.
+
+I've heard that there's almost no other head of a Fortune 500-size company
+who would spend as much time with the people who buy his products.  People
+are often surprised that a man with his responsibilities would take the time
+for this much face to face contact. But the fact is, learning what people
+care about is almost a religion to him.
+
+Here are some of the questions that people either write to Frank or ask him
+in person.  In answering the questions, I've either used the information
+I've heard Frank give, or else I've checked with the Perdue food scientists
+or home economists.
+
+What should I look for when I shop for chicken?
+
+Whatever city we're in, whether it's on the East Coast, or Puerto Rico,
+or even London or Moscow or Tokyo, Frank visits supermarkets the way other
+people visit museums or monuments.  He notices the following kinds of things
+himself and would recommend that you do also when selecting chicken.
+
+
+Give the package a little squeeze.  Are there signs of ice along wings,
+backs or edges?  Frank explained to me that some chicken producers blast
+their birds with air as cold as -40o F, but he never does.  Freezing causes
+a breakdown in protein, loss of natural juices, and reduced tenderness.
+Also, when you cook a frozen bird, the bones and nearby meat may turn an
+unappetizing dark color.
+
+
+Look at the thickness of the meat in proportion to the bone.  If, for example,
+the breast looks scrawny, you're paying a lot for bone rather than meat.
+
+
+Read the labels so you know what you are getting.  Many different parts
+and combinations are available, and some look surprisingly alike even to
+Frank's trained eye.  The label tells exactly what is inside.
+
+
+Ask questions.  If any meat or poultry product doesn't look, feel,
+or smell just right, check with the professionals behind the counter.
+
+
+Notice the pull date.  Most stores are scrupulous about removing chicken
+before the pull date expires-but sometimes there's a slip-up.
+
+
+Was the chicken well-cleaned?  Or are there little traces of feathers
+or hairs?  These can look really unattractive when the bird is cooked.
+
+
+Is the chicken stored correctly on the chilling shelf, or are the trays
+of chicken stacked so high that the top ones aren't kept cold?  When that
+happens, the shelf life of the top ones is seriously shortened.
+
+
+Is the meat case kept so cold that the fresh chicken is frozen and ends up
+with ice crystals on the tray? If so, complain to the manager.
+
+
+Look at the ends of the bones.  Are they pink or are they turning gray?
+Generally, the more pink the bone ends are, the fresher the chicken.
+How should I store chicken at home?
+
+Chicken, like all meat, is perishable.  It should be stored in the coldest
+part of the refrigerator (40F or below), sealed as it comes from the market,
+and used within two or three days of purchase.
+
+Should I freeze chickens?
+
+Frank doesn't recommend freezing poultry. However, if a bird must be held
+beyond three days, freezing will keep it wholesome.
+
+How do I freeze poultry?
+
+When freezing is necessary, seal chicken or other poultry in an airtight
+container, heavy plastic bag, plastic wrap, foil or freezer paper.
+
+Try to have the wrapping tight against the chicken because any place where
+it isn't, small ice crystals will form. That means moisture has been drawn
+from the meat, and where that's happened, the meat will be tough and
+breading won't stick.
+
+Frozen uncooked chicken can be stored up to six months; frozen cooked
+chicken should be used within three months. (Personally I try to avoid
+freezing chicken since I know that freezing makes the chicken less tender
+and less juicy. Still, in spite of good intentions, I sometimes end up doing
+it. I've learned to make it a point to have a wax marking pencil and freezer
+tape handy, so I can label the package with the date and contents. I wonder
+if you've found, as I have, that it's unbelievably easy to lose track of how
+long things have been in there.)
+
+Do not stuff poultry before freezing, and freeze cooked birds and stuffing
+separately.
+
+
+Can frozen chicken be thawed and frozen again?
+
+Each time you freeze chicken, you sacrifice quality. If carefully handled,
+however, it is safe to defrost uncooked chicken and to freeze it again after
+cooking.  If frozen after cooking, do not thaw and freeze again.
+
+
+Why is chicken sometimes implicated in illness?
+
+In a warm, moist environment, illness-causing bacteria can grow in
+high-protein, low-acid foods such as meat, fish, poultry, eggs and milk.
+But there is no reason to become ill from eating or serving these foods, if
+they are cooked thoroughly and served or refrigerated immediately.  To
+prevent transferring bacteria from one food to another, use warm water and
+soap to wash hands, utensils and work surfaces before and after use.
+What makes chicken tender -- or tough?
+
+Frank does his best to make Perdue chickens as tender as possible,  but
+there's also a lot you can do.
+
+
+Don't let chicken dry out in the refrigerator;  dry chicken is tough
+chicken. Keep it wrapped in the package it comes in until you use it.
+
+
+Avoid freezing it.  When the juices inside the cells freeze, they act like
+little spears and they'll rupture some of the cell walls.  When you defrost
+the chicken, you'll lose some of the juice and the chicken will be less
+tender.
+
+
+Cook chicken to the proper temperature, using a meat thermometer or pop-up
+guide. Cook bone-in chicken to 180 degrees and boneless chicken to 170
+degrees. Undercooked chicken will be tough and rubbery because it takes a
+fairly high internal temperature to soften the proteins in the muscles and
+make them tender.  But don't overcook chicken either, because  moisture will
+start to steam off, and the more chicken dries out, the tougher it gets.
+
+
+Keep the skin on chicken during cooking. The skin helps keep juices in,
+and tenderness and juiciness go hand in hand. I've tried this both ways, and
+the difference is significant. (When you cook chicken with the skin on,
+approximately half the fat from the skin is absorbed into the meat; if
+calories and cholesterol are very important to you, you might want to remove
+the skin before cooking even if it means a less tender result.)
+
+When microwaving any chicken product, cover with a loose tent of waxed
+paper to prevent drying.
+
+Some authorities feel strongly that you should not salt the chicken before
+cooking because salt draws the juices out during cooking and toughens the
+meat.  In my experience, there is a detectable difference in tenderness
+between salting before cooking and salting afterwards; the chicken that I
+salted afterwards was slightly more tender. Still, I would guess that most
+people, myself included, wouldn't notice a big difference unless they were
+specifically paying attention to it.  The difference doesn't jump out at you
+as it does with overcooking or freezer burn.
+
+
+Fry or roast breast pieces rather than microwaving them if tenderness is a
+top priority for you.  Microwaving is significantly faster, but there's a
+greater risk of toughness when you microwave breast meat.  Breast meat is
+fairly dry to begin with, and you don't have a whole lot of latitude between
+overcooking and undercooking. With breast meat, there's a trade-off between
+the speed of microwaving and the reliability of frying or roasting.
+
+
+Why are some chickens yellow skinned and some white?
+
+A chicken's skin color comes from the diet it was fed and the same bird
+could have a white skin or a yellow skin, depending on what it ate. The diet
+that produces a yellow skin is more expensive than the usual diet, but the
+people at Perdue Farms feel it's worth it because a yellow skin color is one
+of the fastest ways Frank's inspectors have of finding and disqualifying an
+inferior bird.  If a bird is sick or off its feed, it doesn't absorb
+nutrients well and won't develop the rich golden color that is
+characteristic of Perdue birds. Also, if part of a bird's outer skin is
+"barked", that is, rubbed off due to rough handling during processing, the
+Perdue inspectors can detect it more easily than with a white-skinned bird.
+Detecting and removing and chicken with a barked skin is important because
+damaged skin shortens the shelf life and dries out and toughens the meat.
+No white colored chickens get by the inspectors.
+
+Sometimes when I open a package of chicken, there's a pungent odor that
+doesn't smell spoiled, but it's definitely unpleasant. Should I throw the
+chicken out?
+
+If the odor lasts only a matter of seconds, your chicken is probably fine.
+Meat is chemically active, and as it ages, it releases sulfur. When you open
+a bag that doesn't have air holes, you may notice the accumulated sulfur,
+but it will quickly disperse into the air. In fact, I've heard of cases
+where a wife will lean over to her husband and say, "Smell this, I think
+it's gone bad."  He'll take a deep whiff and find nothing wrong with it.
+She'll take another sniff and then wonder if it was her imagination.  It
+wasn't. It's just that once the package was opened, the sulfur smell faded
+into the air like smoke rings.
+
+If the chicken still smells bad after a couple of minutes, that's an
+entirely different story. The problem is bacterial spoilage or rancidity or
+both.  Return the chicken to the store where you bought it and write to
+Frank. If a chicken's been around too long you can smell it, and if you
+can't detect it at room temperature, you probably can as it cooks, since
+rancidity is more obvious at higher temperatures.  Rancidity can occur
+without bacteria if the freezer where the meat was stored wasn't cold enough
+or if the product was kept there for a very long time, such as more than six
+months for uncooked chicken, or more than three months for cooked chicken.
+(By the way, I don't like to focus on this unpleasant stuff, but I do want
+you to get your money's worth when you're buying chicken.)
+Are chickens given hormones?
+
+Never. I remember when I lived on the West Coast, there was a small
+company that advertised that its chickens were grown without hormones.  I
+thought this was unethical, because it implied that other chickens were
+grown with hormones.  The fact is none are.
+Can I cook frozen chicken, or do I have to let it defrost first?
+
+In a pinch, go ahead, but allow extra cooking time.  For the best texture
+and tenderness, however, you're better off starting from refrigerator
+temperatures; you can be more sure of getting an evenly cooked product.
+How long can I keep chicken at room temperature?
+
+From the point of view of food safety, you're taking a risk if you leave it
+outside the refrigerator for more than two hours. Unfortunately, bacteria
+grow and multiply at temperatures between 40 degrees and 140 degrees, and
+they flourish at room temperature. To avoid food borne illness, all foods of
+animal origin should be kept  either hotter than 140 degrees or colder than
+40 degrees.  If you know you won't be returning home directly after
+shopping, bring along an insulated bag or box to keep cold foods cold until
+you can get them into the refrigerator.
+
+
+Do I need to rinse chicken before cooking?
+
+Advice on this has varied over the years, including the advice Frank gives.
+The latest research shows that from a health point of view, washing is not
+necessary.  Any microbes that you'd wash off will be entirely destroyed by
+heat when you cook the meat.  It's actually far more important to wash your
+hands, your cutting board, and your utensils since they won't be sterilized
+by cooking.
+
+
+How do I get the best flavor?
+
+That depends on whether you're after a mild and delicate flavor, or a
+strong and robust flavor. The younger the bird, the milder the flavor.  A
+game hen, which is five weeks old, will have the mildest flavor of all. A
+broiler, at seven weeks, will still have a quite mild and delicate flavor; a
+roaster, on the other hand, is usually about five weeks older than a broiler
+and it will have a much more pronounced "chickeny" flavor.  (Frank and I
+enjoy chicken at all ages, but if we had to choose on flavor alone, we'd
+most often go for the roasters.) For a really strong, chickeny flavor, see
+if you can find fowl or spent hens or stewing hens. These birds are around
+18 months old, which means they're going to be quite tough, but if you use
+them in soups or stews, they'll add an excellent flavor.
+I've had chicken in the freezer for a year.  Is it still edible?
+
+From a health point of view it would be ok, but the flavor and texture will
+have deteriorated and it just won't be particularly tasty.  I stored chicken
+in the freezer for a year once as an experiment, just to see what it would
+be like.  It wasn't awful, but it was kind of flat and tasteless. I remember
+wondering if this was what cotton tasted like -- although to be fair, it
+wasn't really that bad.
+
+
+Why are bones sometimes dark?
+
+Darkened bones occur when the product has been frozen. Freezing causes the
+blood cells in the bone marrow to rupture and then when the chicken is
+thawed, these ruptured cells leak out and cause visible reddish splotches on
+the bones.  When cooked, these discolorations will turn from red to almost
+black.
+
+
+Is it true that breast meat is the least fattening part of a chicken?
+
+Yes.  Breast meat has about half the fat of thigh meat. If calories or
+cholesterol are important to you, choose the breast meat.  Frank watches his
+cholesterol and I've never seen him go for anything but breast meat. Is it
+better to cook a chicken quickly at a high temperature-or slowly at a low
+temperature?
+
+Both work, but with high temperatures, you run a greater risk of uneven
+cooking, with the wings and legs becoming overcooked before the rest of the
+bird is done.  Usually we recommend a moderate temperature of 350 degrees
+for whole birds and 375 degrees for parts. If you are in a hurry and want to
+use a higher temperature, then shield the wings and legs by wrapping them
+with aluminum foil if they're starting to become too brown .
+
+
+How much should I allow for shrinkage when cooking chicken?
+
+For each 3-ounce serving of cooked poultry, buy an extra ounce to allow
+for shrinkage and an extra two ounces to allow for bone.
+
+
+If I want to use different parts of the chicken from what the recipe calls
+for, how do I go about making substitutions?
+
+This table should help:
+Name of Part                Approximate No. to
+                          Equal One Whole Chicken
+
+Whole breasts                      3
+Half breasts                       6
+Whole leg (thigh and drumstick)    6
+Thigh                             12
+Drumsticks                        14
+Wing                              14
+Drumette (upper part of wing)     24
+
+When using cooked chicken, allow one pound of whole uncooked chicken for
+each cup of cooked, edible chicken meat.
+
+
+How do you truss a chicken?
+HERE HAVE ILLUSTRATION SHOWING HOW
+
+What's the best way to carve a chicken?
+HERE HAVE ILLUSTRATION SHOWING HOW
+
+Some of your recipes call for roasters. I don't live in an area where Perdue
+chicken is sold, and I haven't been able to find roasters in the stores.
+What exactly is a roaster, and can I substitute a broiler?
+
+A Perdue Oven Stuffer Roaster is a 12 week old bird especially developed
+for a broad breast.  Roasters are bigger than broilers, and have a more
+favorable meat to bone ratio than broilers.   Because they are older birds,
+they also have a much deeper, richer flavor. You can use broilers in roaster
+recipes, but plan on the chicken's being done sooner and having a noticeably
+milder flavor.
+
+Frank, by the way, is the man responsible for creating the roaster market.
+Back in the early 1970s, when few people had ever heard of a roaster, he was
+the one who worked to breed these broad-breasted birds, and who put the
+effort into advertising so people would learn about the new product.  He
+surprised his colleagues by how determined he was in his developing and
+marketing efforts. One of the men who worked with Frank told me that he was
+amazed that Frank, who will hang onto an old pair of shoes to save $50, was
+willing to spend millions to let people know about the product, and further,
+he did it without a qualm, because he had such belief in it. If you haven't
+tried an Oven Stuffer Roaster and you're visiting the East Coast, try one,
+and you'll see why Frank believed in it so much.
+
+
+
+
+
+Chapter One: CHICKEN FOR EVERYDAY
+
+Napoleon's cook once bet that he could cook chicken a different way every
+day of the year.  The cook found that this was an easy bet to win, and I can
+see why, having looked at the recipes in Frank's files. Chicken's
+versatility seems almost endless. Perdue Farms home economists have been
+developing chicken recipes since the early 1970s and as a result, Frank has
+more than 2000 chicken recipes. If only Napoleon had chosen to bet with me,
+I could have won even if he'd said the bet was for six years!
+
+In this chapter, you'll find some of Frank's and my favorites for every day
+cooking. But there are different kinds of every day cooking, so I've divided
+the chapter into three sections to take care of three different every day
+situations.
+
+The first section, Fast Food Chicken from Your Refrigerator, is for when
+you're in a hurry and want dinner on the table in the shortest possible
+time. None of these recipes takes more than 15 minutes, and many are ready
+in five. However, you will find special tricks to make the food more
+interesting than just heat and serve.
+
+The second section, Perdue Plus Five, is for when you don't mind if dinner
+isn't ready for another hour or so, but you want your part of the
+preparation to be as brief as possible. The recipes in this section use only
+five ingredients in addition to chicken, salt, and pepper, and all of the
+recipes are simple to preparenthough they may take a while to cook.
+
+The third section, Family Favorites, is for relaxed times.  When you don't
+mind spending some time putting together something your family will really
+like, try this section.
+
+
+FAST FOOD CHICKEN FROM YOUR REFRIGERATOR
+
+(PHOTO:
+The most valuable player on the TV Football-party table might be
+Perdue Done It![TM])
+
+Frank loves to tell people that they can pick up delicious, fast-food
+chicken within easy walking distancentheir refrigerators. "When you're
+hungry and in a hurry," he says, "you don't need to rush across town for
+great chicken.  You can just walk (slowly) to your refrigerator and pick up
+my Perdue Done It![TM] chicken."
+
+Although fried foods are notoriously high in fat, particularly fast food
+ones.  Perdue Done It![TM] is an exception.  Frank flash fries the Perdue
+Done It![TM] products.  They are in oil for seconds only.  Further, to assure
+the chicken is as low in saturated fat as possible, Perdue uses only
+polyunsaturated soybean oil.
+
+In the recipes that follow, I've used generic nuggets, cutlets, tenders,
+and other fully cooked products.  However, try for the Perdue Done It!® if
+you live in the Perdue marketing area, which is the East Coast and some of
+the Mid Western states.  The Perdue nuggets, cutlets and tenders come from
+white meat fillets, while some of the other brands are pressed and formed
+from dark meat chicken and don't have the best texture or flavor.
+
+
+TENDERS, AND NUGGETS
+
+Chick on a Biscuit:  Split hot baked biscuits.  Fill each with a breaded
+chicken nugget and a thin slice of ham; top with mustard.
+
+Chicken Mexicali:  Top cutlets or tenders with prepared salsa and avocado
+slices.
+
+Chicken Parmesan:  Top partially heated cutlets with spaghetti sauce and
+sliced mozzarella cheese; broil briefly to melt cheese.
+
+Super Caesar Salad:  Quarter heated nuggets and toss with croutons, Romaine
+lettuce, and Caesar salad dressing.
+
+Holiday Crepe:  Heat breast tenders and place on a warm crepe.  Top with
+cranberry sauce and roll up; serve with sour cream.
+
+Japanese Meal-in-a-Bowl:  Prepare Japanese-style noodle soup (ramen) as
+directed.  Add heated chicken breast nuggets or tenders, sliced scallions
+and a dash of soy sauce.  (I often put this in a Thermos and bring it to
+Frank at his office when he's working late.)
+
+Nugget Sticks:  On metal skewers, alternately thread 4 to 5 chicken breast
+nuggets with 2 inch pieces of bacon.  Heat in oven as directed on nugget
+package.  Dip into prepared chutney or sweet-sour sauce.
+
+Stir-Fry Snack:  Stir-fry wings in a little oil with red bell pepper strips,
+scallions and sliced water chestnuts.  Season with soy sauce.  Serve over
+rice.
+
+Substantial Sub:  Split a loaf of Italian bread lengthwise.  Pile on heated
+breaded chicken cutlets or tenders, provolone cheese, sliced tomato, sweet
+onion, pimentos and shredded lettuce.  Douse with bottled salad dressing and
+dig in.
+
+Tenders Under Wraps: Brush Boston lettuce leaves with prepared hoisin sauce
+or Chinese-style duck sauce.  Place a heated tender or 2 nuggets and a piece
+of scallion on top.  Roll up lettuce around tender, securing with a
+toothpick.
+
+
+PRECOOKED HOT & SPICY WINGS
+
+Chicken Antipasto:  Arrange hot & spicy wings on platter with slices of
+provolone cheese, sliced tomatoes, marinated artichoke hearts and olives.
+
+Out-of-Buffalo Wings:  Warm hot & spicy wings and arrange with celery sticks
+around a blue cheese dip. Combine 3/4 cup mayonnaise, 1/3 cup crumbled blue
+cheese and 1 minced scallion in a small bowl.
+
+Speedy Arroz Con Pollo:  Prepare a box of Spanish rice mix as package
+directs.  During last 10 minutes of cooking time, add 1 package hot & spicy
+wings, 1 package thawed frozen peas and 1/2 cup sliced olives.  Cover and
+heat through.
+
+
+PRECOOKED BARBECUED WINGS
+
+Tostados Platter:  Arrange heated wings on platter with wedges of avocado
+and tomato, chunks of cheddar cheese, crisp taco chips and a bowl of
+prepared taco sauce for dipping.
+
+Wings 'n Ribs:  Serve hot wings on platter arranged with small barbecued
+spareribs and thick-cut French fries.  Pass additional bottled barbecue
+sauce on side.
+
+ROASTED CHICKEN AND CORNISH HENS
+Aloha Salad:  Halve a fresh pineapple and cut fruit into chunks.  Toss with
+chunks of roasted chicken, toasted almonds, and chopped scallions.  Blend in
+mayonnaise flavored with curry powder and spoon back into pineapple shell to
+serve.
+
+Cheesy Chick:  Prepare packaged stuffing mix as directed, adding 1 cup
+shredded Jarlsberg or Swiss cheese.  Stuff whole roasted chicken or Cornish
+hens with mixture; heat until warmed through.
+
+Chicken Frittata:  Shred roasted chicken or cut breaded chicken into cubes.
+Add to beaten eggs, along with mushrooms, onions, and any leftover
+vegetables.  Cook mixture quickly, forming into an open-faced omelet or
+frittata.
+
+Chicken Normandy:  Arrange cut-up roasted chicken or Cornish hen meat in a
+shallow baking dish and scatter thinly sliced apples around pieces.  Cover
+and heat until hot and apples are tender.  Stir in a little light or heavy
+cream and warm to serve.
+Chicken Reuben:  Thinly slice roasted chicken.  Pile on sliced rye that's
+been spread with Russian dressing.  Top with prepared sauerkraut, a slice of
+Swiss cheese, and another slice of rye.  Grill or pan fry sandwiches until
+cheese melts.
+
+Chicken Sesame:  Brush roasted chicken or Cornish hens with bottled salad
+dressing; sprinkle surface with sesame seeds and heat as directed.
+
+Fabulous Fajitas:  Slice roasted chicken into strips.  Saute in oil, adding
+lime juice, garlic, and ground cumin to taste.  Roll up in warm flour
+tortillas and top with chunks of avocado, chopped scallion, and cherry
+tomatoes.
+
+Pasta Pizazz:  Saute pieces of roasted or breaded chicken with sliced
+zucchini, chopped onion, sliced mushrooms, and garlic.  Add a dash of heavy
+cream and toss with hot cooked spaghetti or noodles.
+
+Power Pita:  Slice roasted chicken and stuff into a whole wheat pita bread.
+Top with shredded carrots, alfalfa sprouts, red pepper strips and a
+tablespoon of dressing made of plain yogurt  seasoned with lemon juice,
+curry powder and salt and pepper to taste.
+
+Stir Fried Chicken:  Dice roasted chicken into a wok or skillet and stir-fry
+with scallions, celery, mushrooms, and peas.  Add cooked rice and soy sauce
+to taste; toss well.
+
+Super Spud:  Halve a baked potato and top with shredded roasted chicken
+mixed with a little mayonnaise.  Pile on shredded Swiss cheese, bacon bits,
+and chopped chives; bake or microwave until cheese melts.
+
+Taco Perdue:  Cube roasted chicken and serve in taco shells, topped with
+shredded lettuce, chopped tomatoes, onion, shredded cheese, and taco sauce.
+
+PHOTO:  Harvest fruit adds seasonal flavor to chicken - 3
+
+Golden Nugget Salad: Heat 1 package of chicken breast nuggets.  Combine with
+Romaine lettuce, halved cherry tomatoes and diced avocado.  Toss with your
+favorite dressing.
+
+NUGGETS OR TENDERS WITH DIP
+Fully cooked breaded chicken breast nuggets (14-18 per package)
+or
+Tenders (6-8 per package)
+Following package directions, warm nuggets or tenders in a conventional oven
+or, using package tray, heat in a microwave oven.  Serve with ketchup or
+your favorite mustard.  For myself, I've been trying some of the more exotic
+mustards from the supermarket and sometimes I put out several kinds in
+pretty little dishes that I'd otherwise use for nuts.  Instead of a wine or
+cheese tasting, my guests end up trying different mustards.
+
+
+PERDUE PLUS FIVE
+
+When was the last time you baked a pie from scratch?
+
+I'm asking you this question because I'm guessing that you're like many
+other people who've told me that today they'd never have time to bake a pie
+from scratch.  They might have once, but they don't have the time any more.
+
+In the last few years I've asked this question to dozens and dozens of
+audiences when giving talks.  Almost always, I get the same answer: that
+people who once had had the time to do a lot of cooking now seldom do. The
+want to eat well, they enjoy cooking, but they just can't find the time.
+
+If you were to ask me that question, I'd have to answer that I haven't
+found time to bake a pie from scratch in years either. Frank keeps me so
+busy that sometimes I think that I'm married to a whirlwind.  People joke
+that he's the only man you'll ever meet who can enter a revolving door in
+the compartment behind you and come out ahead of you. They also joke that
+he doesn't get ulcers-but he's a carrier.
+
+Knowing quick recipes has become more important to me than ever, and this
+section contains a selection of the best. The heating and cooking time may
+take an hour or so, but your part in the kitchen should be no more than
+fifteen minutes.  In this section, you'll find uncomplicated recipes with
+few steps, and none of the recipes have more than five ingredients in
+addition to chicken, salt, pepper and water.
+
+If like me, you also are looking for ways to prepare meals that taste good,
+look good, give you  more satisfaction than microwaving a store bought
+frozen dinner, but don't require a long time in the kitchen, this section
+is for you.
+
+
+BAKED ONION CHICKEN  Serves 4
+
+Recipes don't get much easier on the cook than this.  Anne Nesbit developed
+it for Perdue Farms.  One of her jobs as a Perdue home economist was to
+translate some of the world's most successful recipes into ones that were
+both easy to assemble and quick to prepare.  "I'm an admirer of simple
+recipes," says Anne. "My heart was in this work because I believed in it.
+People want food that looks good and tastes good, but they don't have time
+to put a lot of work into getting there."  I've never met Anne, except over
+the phone, but from this comment, I know I would like her. The recipe isn't
+fancy, and it may be old-fashioned, but it's a treasure when you're in a hurry.
+
+1 chicken, cut in serving pieces
+dehydrated onion soup mix
+
+Preheat oven to 350F.  Roll chicken in dry soup mix, using about as much
+mix as you would salt.  Place chicken in a single layer, skin side up, on
+baking sheet.  Bake, uncovered for 55 to 65 minutes until cooked through.
+
+
+BASIC FRIED CHICKEN  Serves 4
+
+This is fried chicken in its simplest form. It's good enough so that the
+last time I made it, the grandchildren were making off with pieces almost as
+fast as I could cook them. Frank's daughter Anne Oliviero particularly
+recommends basic fried chicken served cold the next day for picnics. She and
+her family love to explore some of the islands off the coast of Maine, where
+they live, and cold fried chicken is just about always on the menu.
+
+1/3 cup flour
+1 teaspoon salt or to taste
+1/4 teaspoon ground pepper or to taste
+1 chicken cut in serving pieces
+1/2 cup vegetable shortening
+
+In a large plastic bag combine flour with salt and pepper.  Shake chicken in
+bag with mixture.  In a large, deep skillet over medium heat, melt
+shortening.   Cook chicken uncovered,  heat for 20 to 30 minutes on each
+side or until cooked through.
+
+
+OVEN-FRIED CHICKEN, SOUTHWESTERN STYLE
+
+Any basic fried chicken recipe may be adapted for oven frying.  It is a
+useful technique when cooking larger quantities of chicken and is less messy
+than stovetop frying.  (Especially if you have a self-cleaning oven.)
+Simply follow the basic cooking instructions as given in the Southwestern
+version below.
+
+1 chicken, cut in serving pieces
+1 cup buttermilk
+3/4 teaspoon Tabasco, optional
+Vegetable oil for frying
+1/2 cup flour
+1/2 cup corn meal
+1 teaspoon salt
+3/4 teaspoon chili powder
+1/4 teaspoon ground pepper
+
+Place chicken in a large bowl.  Sprinkle with Tabasco.  Pour buttermilk over
+all and allow to marinate for 10 to 15 minutes.  Preheat oven to 425oF.
+Place 1/2 inch of oil in the bottom of a heavy baking pan large enough to
+hold chicken without crowding.  Place pan in oven to heat for 10 minutes.
+In a plastic bag combine remaining ingredients.  Shake chicken in seasoned
+flour.  Remove pieces one at a time and quickly slip into hot oil.  Place in
+oven and bake for 20 minutes.  Turn and bake for 10 to 15 minutes longer or
+until chicken is cooked through.  Drain chicken on crumpled paper towels.
+
+
+BASIC ROAST CHICKEN  Serves 4
+
+Sometimes there is nothing else that will fill the bill like roasted
+chicken.  Here's the easiest way to do it.  You can brush the surface with
+melted butter, margarine or oil, but it isn't really necessary.
+
+1 whole chicken
+1 teaspoon salt or to taste
+1 package (7-1/2-ounces) stuffing mix, prepared as directed on package
+Sprinkle cavity of chicken with salt.  Stuff with favorite prepared
+stuffing. Or skip stuffing if you're really in a hurry. Place chicken in
+baking pan (no rack needed).
+
+
+ROASTING CHART
+
+Approximate                    Amount of             Additional Cooking
+Cooking Time                   Stuffing              Time if Stuffed
+at 350F                        [in cups]
+
+Broiler/Fryer                 1-1/2 to 2 cups        15 to 20 minutes
+1-1/4 to 2 hours
+(2-1/2 to 4 pounds)
+
+Oven Stuffer Roaster           3 to 3-1/2 cups       20 to 25 minutes
+2-1/4 to 2-3/4 hours
+(5 to 7 pounds)
+
+Cornish Game Hen               1/2 to 3/4 cup        15 to 20 minutes
+60 to 75 minutes
+(18-24-ounces)
+
+
+BIRD OF PARADISE  Serves 4
+
+The recipe calls for a chicken cut in serving pieces, but naturally you can
+substitute any parts that you particularly like, such as breasts or thighs.
+Three breasts or 6 thighs with drumsticks attached would come out to about
+the same amount as the 1 chicken called for in this recipe.
+1 chicken, cut in serving pieces
+Salt and ground pepper to taste
+1 egg, beaten
+1/4 cup milk
+1 teaspoon salt or to taste
+1/3 cup grated Parmesan cheese
+1/2 cup butter or margarine
+1 cup sherry
+
+Season chicken with salt and pepper.  In a shallow bowl combine egg and
+milk.  Place cheese in a shallow baking pan.  Dip chicken in egg mixture;
+then roll in cheese.  In a large, deep skillet, over medium heat, melt
+butter.  Add chicken and brown for 5 to 6 minutes on each side.  Add sherry.
+Cover and cook at medium-low heat for 35 to 45 minutes or until cooked
+through.
+
+
+CORN CRISPED CHICKEN  Serves 4
+
+I grew up on this recipe. It's not new, but it's good and the preparation
+time is minimal. If you don't have cornflakes, you can substitute almost any
+breakfast flakes as long as they don't have raisins in them. (The raisins
+can scorch in the oven.) For variation, you can add 1 teaspoon dried italian
+seasonings or 1 teaspoon chili powder or 3/4 teaspoon curry powder to the
+cornflake crumbs.
+
+1 cup cornflake crumbs
+1 teaspoon salt or to taste
+1/4 teaspoon ground pepper
+1/2 cup evaporated milk, undiluted
+1 chicken, cut in serving pieces
+
+Preheat oven to 350F.  On a sheet of wax paper combine cornflake crumbs,
+salt and pepper.  Place evaporated milk in a shallow bowl.  Dip chicken in
+milk; then roll in seasoned crumbs.  Place chicken, skin side up, in a
+baking pan.  Bake, uncovered for 1 hour, or until cooked through.
+
+
+CUTLET PAILLARDS WITH BASIL BUTTER  Serves 4
+
+When I made this recipe, I happened to be in a hurry, and didn't have time
+to get fresh basil so I used dried basil instead.  Frank liked it and had
+seconds. The name "Paillard," by the way, comes from a European restaurant
+famous at the end of the 19th Century.
+
+4 skinless, boneless chicken breast halves or 1 thin sliced boneless roaster
+breast
+1 tablespoon olive or vegetable oil
+6 tablespoons butter or margarine
+3 tablespoons minced fresh basil, or 1 tablespoon dried
+1 small clove garlic, minced
+1 teaspoon lemon juice
+salt and ground pepper to taste
+lemon slices, for garnish
+
+Place chicken between sheets of plastic wrap and pound to 1/2 inch
+thickness.  If using thin sliced boneless Roaster breast, omit placing in
+plastic wrap and pounding. Brush cutlets lightly with oil,  Grill over hot
+coals 3 to 4 minutes per side, rotating to form crosshatch marks
+characteristic of paillards, or broil 3 to 4 minutes per side or until
+cooked through.  Place butter, basil, garlic and lemon juice in a small pan
+and melt on the side of the grill.  Spoon butter over paillards and season
+with salt and pepper.  Garnish with lemon slices.
+
+
+EASY OVEN CHICKEN  Serves 4
+
+This recipe has been one of my favorites since college days.  The true
+chicken flavor comes out with just a touch of garlic.
+
+1 chicken, cut in serving pieces
+1/4 cup olive or vegetable oil
+1 teaspoon salt or to taste
+1/4 teaspoon ground pepper
+1 small clove garlic, minced
+
+Preheat oven to 350F.  In a shallow baking pan arrange chicken in a single
+layer, skin side up.  Pour oil over chicken.  Sprinkle with salt, pepper and
+garlic.  Bake, uncovered, for about 1 hour, or until cooked through.
+
+
+HONEY LEMON CHICKEN Serves 4
+
+This recipe was originally designed for broiling, but this version requires
+less attention. 1 chicken, cut in serving pieces
+
+1/2 cup honey
+1/4 cup lemon juice
+1 teaspoon salt or to taste
+
+Preheat oven to 350F.  In a shallow baking pan arrange chicken in a single
+layer, skin side down.  In a small bowl combine honey, lemon juice and salt.
+Pour half of this sauce over chicken.  Bake, covered for 30 minutes.  Remove
+cover; turn chicken.  Pour other half of sauce on chicken.  Replace cover.
+Bake another 25 to 30 minutes or until cooked through, removing cover last
+10 minutes for browning.
+
+
+HONEY-MUSTARD BAKED BREAST Serves 4
+
+Have you ever been concerned about whether the honey you have in your
+cupboard is fresh or whether it should be thrown out?  Not to worry!  Honey
+is itself a natural preservative and samples of honey have been found in the
+tombs of Ancient Egypt that were still edible.  If it's crystallized, it may
+look bad, but it's still a wholesome food.  Just heat it gently until it
+reliquifies.
+
+1 whole boneless roaster breast
+salt and ground pepper to taste
+4 tablespoons melted butter or margarine
+1/2 cup honey
+1/4 cup Dijon mustard
+1/4 teaspoon curry powder
+
+Preheat oven to 350F.  Season breast with salt and pepper.  Combine butter,
+honey, mustard and curry powder.  Spoon half of sauce into a shallow baking
+dish.  Add breast and turn to coat well.  Bake, uncovered, for about 1 hour
+or until cooked through.  Turn and baste with remaining sauce once during
+cooking time.
+
+
+IT'S A DILLY CHICKEN
+
+When I read this recipe in the files, I noticed several hand-scrawled notes
+saying that it was really good, and someone described it as "a dilly of a
+recipe."  Yet from reading the recipe, it didn't sound as special as the
+notes indicated, especially since the ingredients include canned mushrooms
+rather than fresh. I was curious enough that I went to the kitchen and made
+the recipe, expecting that this would be one of the recipes that I wouldn't
+include in this book.  But to my surprise, I discovered that yes, dill seed
+and canned mushrooms, along with the juice from the mushrooms, really do
+something terrific for chicken.  It's not rich or creamy, but there's an
+attractive, aromatic flavor that permeates the chicken.
+
+1 chicken, cut in serving pieces
+1 teaspoon salt or to taste
+1/4 teaspoon ground pepper
+1 can (4-ounces) whole small mushrooms (with liquid)
+1/2 teaspoon dill seed
+
+Preheat oven to 350F.  In a shallow baking pan arrange chicken, skin side
+up, in a single layer.  Add salt, pepper, mushrooms (with liquid from can)
+and dill.  Cover with foil.  Bake at  for 1 hour or until cooked through.
+
+
+KIWI GLAZED CORNISH HENS Serves 2
+
+Kiwifruit is only sweet and mild when it's fully ripe. A kiwifruit grower
+told me that kiwifruits are ripe when they're "soft as a baby's bottom."
+When they're underripe, they taste like something between a lemon and a
+crabapple. If your kiwifruit is hard when you bring it home, give it a
+couple of days to ripen on your kitchen counter.
+
+2 fresh Cornish game hens
+salt and ground pepper to taste
+3 tablespoons butter or margarine
+1 tablespoon sugar
+1 ripe kiwifruit, peeled and mashed
+
+Preheat oven to 350F.  Remove giblets.  Season hens inside and out with
+salt and pepper.  Tie legs together, fold wings back and arrange in baking
+pan.  In a small saucepan over medium-low heat, melt butter.  Brush hens
+with 2 tablespoons butter, reserving remainder. Put hens in oven, and while
+they are cooking, prepare kiwi glaze.  Add sugar to remaining butter in pan
+and heat over medium-low until sugar dissolves.  Add mashed kiwi and cook
+one minute.  Remove from heat.  After 45 minutes of cooking time, brush hens
+generously with kiwi glaze.  Continue baking for 15 to 20 minutes or until
+juices run clear with no hint of pink when thigh is pierced.
+
+
+FAMILY FAVORITES
+
+In contrast to the preceding recipes, these recipes have more ingredients
+and require more preparation time, but if you've got the time, they're worth
+it. If you want to minimize time in the kitchen using these recipes, here
+are some suggestions.
+Tips for Saving Time in the Kitchen
+
+
+To halve baking time, select boneless chicken breasts.  Cooking time
+is only 15-20 minutes at 350F. A bone-in breast takes 35-45 minutes.
+
+
+Stir fry chicken can be done in as little as 4 minutes.
+
+
+Cook double batches and freeze the extras in serving size packages.  On
+days when time is short, pop a package into the microwave for "fast food."
+
+
+Take advantage of your supermarket's time-saving convenience items. If
+you're in a hurry, don't bother to slice and chop your fresh ingredients.
+The salad bar has probably done it for you.  You can also find time savers
+such as shredded cheese and frozen chopped onion. (The supermarket industry
+has watched restaurants and fast food stores take more and more of your food
+dollars away each year.  They're now doing everything they can think of to
+reverse this trend and make supermarket shopping so attractive, quick,
+convenient and economical that you'll want to cook at home.)
+
+
+Learn to cook chicken in the microwave.  A pound of broiler parts that
+would take 40 minutes in a 350 degree oven takes only 6-10 minutes in the
+microwave. See Chapter Four, Chicken in the Microwave.
+
+
+SOUPS
+
+PHOTO:  Pot of soup with fresh vegetables surrounding outside - 2
+
+Wherever there are people and chickens, there are chicken soups.  Virtually
+every immigrant group arriving in America brought along favorite chicken
+soup recipes and often the treasured family soup pot, too.
+
+If you grew up on canned, frozen, and dried soups, you may not realize how
+easy it is to make truly wonderful soups at home.  If so, try it for
+yourself, perhaps with these American classics.  All the soups are based on
+a key ingredient:  rich, homemade chicken stock, made from either whole
+birds or from parts, in about three hours.  Stock takes little tending, just
+slow easy cooking to bring out all the flavor and wholesome goodness.  Why
+not try making one of these soups now?  And then, with the help of your
+freezer, enjoy the results many times in the coming months.
+
+
+Basic Guide to Chicken Soup
+
+Older, larger birds, such as the 5-7 pound roasters, make the best soups.
+An older bird will have developed more of the rich, intense chickeny flavor
+than the younger, milder-flavored broilers or Cornish hens. I've made soup
+from broilers and while it wasn't bad, it wasn't as good as it could be.
+
+
+Use roaster parts if you want to save time.  They cook faster and are
+excellent when you need only a small amount of broth.  The richest flavor,
+by the way, comes from the muscles that are exercised most, which happen to
+be the dark meat muscles. All parts will make satisfactory soup, but the
+legs, thighs and necks provide the fullest flavor.
+
+
+For clear, golden broth, do not add liver.  It turns stock cloudy.  And
+avoid a greenish cast by using only parsley stems and the white parts of
+leeks or scallions.
+
+
+As the stock cooks down, foam will float to the top.  Skim it off, or
+strain it out through double cheesecloth when the stock is complete.  Tie
+herbs and greens in cheesecloth as a "bouquet garni," so you won't
+inadvertently remove them during the skimming.
+
+
+Always simmer stock over low to medium heat. It's not a good idea to boil
+the stock for the same reason it's not a good idea to boil coffee; too much
+of the flavor would boil away into the air. oLeftover vegetables and those
+past their prime are good pureed in cream soups.  When thickening such
+recipes with egg, prevent curdling by stirring a cup of hot soup first into
+egg, then back into soup. Also, be careful to keep the soup from boiling
+once you've added the egg.
+
+
+Most soups develop better flavor if you'll store them, covered, in the
+refrigerator for a day or two.  To seal in the flavor while you're storing
+the soup, don't remove the fat that's on top.  When you're ready to serve
+the soup you can lift the congealed fat off as a sheet.  To remove the last
+particles of fat, place unscented paper towel on the surface.  Draw towel to
+one side and remove.
+
+
+When freezing stock, allow 1/2- to 1-inch head room in containers so soup
+can expand.  Freeze some in quart-sized or larger containers for use in
+soups.  Ladle the rest into ice cube trays or muffin cups for adding to
+vegetables, sauces, or gravies.  Freeze and then transfer frozen stock cubes
+to a plastic bag or freezer container and keep frozen until ready to use.
+
+
+Soup may be stored in the refrigerator two or three days or frozen for
+three to four months. When reheating, make sure to bring the broth to a
+boil.  Soups enriched with eggs are, unfortunately, not good candidates for
+reheating; they're apt to curdle.
+
+
+BASIC CHICKEN STOCK
+
+Makes about 8 cups
+
+If you need to, you can make the following substitutions for the roaster:  1
+stewing hen or spent fowl (5-7 pounds); 2 fresh young chickens (2-4 pounds);
+or 6 pounds fresh chicken parts, preferably dark meat portions.  (As I
+mentioned earlier, young chickens will not provide  as rich a flavor as the
+older birds but the taste will still be good.)  Cooking times for meat will
+vary from 3 hours for  stewing hens or spent fowl,  to 1-1/2 hours for 2
+smaller birds to slightly less time for parts.  In each case, time from
+beginning of simmer and return bones to stock for an additional 1/2 hour
+after you've removed the meat.
+
+Chicken stock is delicious served as a simple broth with herbs,
+shredded or julienne vegetables, slivers of meat, or rice.  It also is the
+base from which countless other soups are made.
+
+1 roaster (5-7 pounds)
+chicken giblets, except liver
+1 large bay leaf
+2 whole cloves
+1 teaspoon white peppercorns
+1 1/2 teaspoons fresh thyme or 1/2 teaspoon dried
+4 quarts water or enough to cover chicken generously
+1 cup dry white wine, optional
+2 medium onions, quartered
+2 large carrots, sliced
+2 ribs celery, sliced
+1 leek, white part only, cleaned and sliced, optional
+1 bunch fresh parsley, stems only
+1 teaspoon salt or to taste
+
+Remove giblets from roaster and discard bird-watcher thermometer, if it has
+one.  Place roaster along with giblets in a large stockpot (8 to 10 quarts)
+or other large sauce pot.  Wrap bay leaf, cloves, peppercorns, and thyme in
+cheesecloth as bouquet garni; tie closed with string.  Add to stockpot along
+with remaining ingredients.  Cover pot and simmer over medium-low heat for
+2-1/2 hours or until meat is tender.  Carefully skim stock from time to time
+with a ladle or spoon to remove fat particles and foam.
+
+To check roaster for doneness, pull back a leg or cut into meat close to
+bone; it is cooked when no pink color remains in meat.  Remove pieces with a
+slotted spoon.  Cut away meat from bones and return bones to stock; simmer
+30 minutes longer. (See  Chapter 10: Cooking with Leftovers for uses for the
+cooked meat.)
+
+Strain stock through a fine sieve.  If you want, prepare in advance to this
+point and refrigerate or freeze.  Skim off top fat before using.
+
+To make a soup, bring as much stock as needed to a simmer.  Then follow
+the soup recipe, adding chicken, vegetables, thickeners, seasonings,
+and garnishes.
+
+
+CHICKEN-IN-EVERY-POT SOUP  Serves 4-6
+
+For the best flavor, use fresh vegetables, varying them according to the
+season. Speaking of fresh vegetables, do you know how to tell a good carrot?
+Look at the "crown," (that's the stem end).  If the crown is turning brown
+or black or has regrowth visible where the stem was, you've got a carrot
+that's been around awhile. If the crown and shoulders are a bright orange,
+you've got a nice, fresh carrot.
+
+1 cup potatoes, cut in 1/2-inch cubes
+4 cups chicken broth
+1/4 cup dry sherry
+1 teaspoon salt or to taste
+1/8 teaspoon ground pepper
+1 cup onions, halved and thinly sliced
+1 cup carrots, in 1/4-inch by 2-inch sticks
+1 cup celery, in 1/4-inch by 2-inch sticks
+1 cup fresh or frozen green beans, in 2-inch pieces
+2 cups cooked chicken, in 1/4-inch by 2-inch julienne strips
+1 cup zucchini, in 1/4-inch by 2-inch sticks
+
+Place potatoes in a saucepan with enough salted water to cover.  Bring to a
+boil over medium-high heat.  Cook potatoes 5 minutes; drain, rinse under
+cold water and set aside.  In large saucepan over medium-high heat, bring
+broth and sherry to a boil.  Season with salt and pepper.  Add onions,
+carrots, and celery and simmer 5 minutes.  Stir in green beans and chicken
+and heat soup to boiling.  Add zucchini and potatoes and simmer 1 minute
+longer or until vegetables are as tender as you like them.
+
+
+Variation:  Chicken Minestrone
+
+Add 1 cup chopped stewed tomatoes in their juice and 2 cups cooked, drained
+fusilli or other pasta and 1/2-cup cooked kidney beans when adding zucchini
+and potatoes.  Stir in 1/2-cup grated Parmesan cheese just before serving.
+Other fresh vegetables may be added according to their cooking times.
+Minestrone happens to be one of Frank's favorites, although he skips the
+cheese because of its cholesterol.
+
+
+NEW ENGLAND CHICKEN 'N' CORN CHOWDER Serves 4-6
+
+Chowders are thick soups which take their name from the large French pot
+used in soup-making called a "chaudiere." You can use fresh corn in this
+recipe, but I deliberately suggested frozen  corn first because frozen corn
+can actually taste sweeter and fresher than the fresh corn you buy at the
+supermarket. Corn loses 50% of its sweetness in just 24 hours at room
+temperature, and it can take days for corn to get from the fields to the
+supermarket to your house. In contrast, frozen corn is rushed from the
+fields to the freezer in just a few hours, and once frozen, it stops losing
+its sweetness.  Strange as it may seem, with corn, frozen can taste fresher
+than fresh.
+
+1/4 pound bacon or salt pork, diced
+1 cup chopped onion
+1/2 cup chopped celery
+4 cups chicken broth
+2 cups peeled potatoes, cut in 1/2-inch cubes
+1 package (10 ounces) frozen corn or kernels from 2 ears of corn
+1 teaspoon salt or to taste
+1/8 teaspoon ground pepper
+2 cups cooked, diced chicken
+1 cup (1/2-pint) heavy cream
+Oyster crackers, for garnish
+
+In large saucepan over medium-high heat, saute bacon for 3 minutes until its
+fat has been rendered.  Add onions and celery and cook 3 minutes longer.
+Stir in broth and bring to a boil, whisking constantly. Add potatoes and
+corn, season with salt and pepper and cook 5 to 10 minutes or until tender.
+Stir in chicken and cream, simmer 3 minutes and serve with oyster crackers.
+
+
+Variation:   Shellfish Chowder
+
+Add 1 cup chopped green pepper and 1 cup cooked crab or shrimp to soup when
+adding chicken.
+
+
+HEARTY LANCASTER CHICKEN, VEGETABLE AND DUMPLING SOUP Serves 4
+
+This is a famous Pennsylvania summer soup made with extra vegetables for
+hearty winter eating. You can substitute noodles for the dumplings, or add
+crackers, pretzels - and some people have told me that even popcorn works.
+I'm skeptical about the popcorn, but if you're feeling adventurous, give it
+a try.
+
+6 cups chicken broth
+2 cups cooked, diced chicken
+1 teaspoon salt or to taste
+1/8 teaspoon ground pepper
+1/2 cup parboiled potatoes, cut in 1/2-inch cubes
+1/2 cup parboiled carrots, cut in 1/2-inch pieces
+1/2 cup shredded green cabbage
+1 cup thinly-sliced leek, white and tender green parts only, or 1 medium
+onion, thinly sliced
+1 package (10-ounces) frozen corn kernels from 2 ears of corn
+
+
+Knepp
+
+In large saucepan over high heat, bring broth to a boil.  Add other
+ingredients and reduce heat to low.  Simmer for 3 minutes while making
+dumplings.
+
+Knepp (Little Dumplings)
+1 egg
+3/4 cup flour
+1/3 cup water
+1/4 teaspoon salt or to taste
+1/8 teaspoon baking powder
+Pinch ground nutmeg
+1 teaspoon  minced, fresh parsley, optional garnish
+
+In small bowl, beat egg; stir in flour, water, salt, baking powder, and
+nutmeg.  Drop batter by half teaspoons into the simmering soup.  When
+dumplings rise to top, stir in parsley and serve.
+
+
+Variation:   Chicken Spinach Straciatella
+
+Omit dumplings.  Clean and stem 1/2 pound fresh spinach; stack and cut into
+1/2-inch strips.  Whisk together 2 eggs with 1/2-cup grated Parmesan cheese.
+Stir in spinach with chicken, then heat soup just to boiling.  Immediately
+pour in the egg mixture in a thin stream, while stirring.  The goal is to
+end up with thread-like strands of cooked egg. Cook until soup simmers
+again; stir gently just before serving.
+
+
+STEW FROM BAVARIA Serves 4
+
+If you like mild sauerkraut, instead of just draining it, as the recipe
+suggests, rinse it in a colander or strainer.
+1 roaster boneless breast, cut into bite-size pieces
+salt and ground pepper to taste
+2 tablespoons butter or margarine
+1 medium onion, thinly sliced
+1 pound sauerkraut, drained
+1 can (16 ounces) whole berry cranberry sauce
+1 large apple, peeled, cored and sliced
+1/2 cup chopped walnuts (optional)
+Season breast pieces with salt and pepper.  In a flame proof casserole or
+Dutch oven over medium heat, melt butter.  Add chicken and onions.  Saute
+until lightly browned, about 5 minutes.  In a bowl combine sauerkraut,
+cranberry sauce and apples.  Spoon over chicken and onions and toss gently.
+Cover and simmer over medium-low heat for 20 minutes.  Sprinkle with walnuts
+just before serving.
+
+
+MAIN DISH RECIPES
+
+RECIPES WITH CHICKEN BREASTS
+
+Unlike women, chickens have only one breast. A single serving would usually
+be a breast half.
+
+The recipes that follow will refer to "breasts" and "breast halves."  A
+cutlet is a breast half (or thigh) that is both skinless and boneless and
+sometimes has been pounded to flatten.  A scaloppine is a cutlet sliced
+almost in half lengthwise and then opened, like the wings of a butterfly or
+a thin slice from a large roaster breast.  To save time, look for chicken
+scaloppine which have already been made for you: the Perdue thin-sliced Oven
+Stuffer Roaster Breasts are ready-made scaloppine.
+
+The recipes will also specify whether to use a chicken breast or a roaster
+breast. You can interchange them, but the results will be different.  A
+roaster has a more intense flavor and is juicier.  It's also bigger, and
+requires longer cooking.
+
+
+BAKED BREASTS WITH CHEESE  Serves 4
+
+When the Perdue Oven Stuffer Roasters and Roaster Parts first came out,
+Frank used to have recipe cards put in each one because it was a new product
+and most people didn't know how they should be cooked.  The practice was
+discontinued once Roasters became well-known.  The woman in charge of
+distributing recipes told me that sometimes the recipes on the cards became
+family favorites, and when a person lost one of the family favorite cards,
+he or she would actually take the trouble to write to Frank for a
+replacement.  I asked how often this happens and learned that over the
+years, Frank has received thousands of letters requesting replacement cards.
+This is one of the recipes that people have asked for over and over again.
+
+3 tablespoons butter or margarine, divided
+1 roaster boneless breast
+salt and ground pepper to taste
+2 scallions, thinly sliced
+1 tablespoon fresh chopped parsley
+1 and 1/2 teaspoons fresh thyme or 1/2 teaspoon dried
+1/2 cup chicken broth
+3 tablespoons dry white wine
+3/4 cup grated Swiss cheese
+2 tablespoons grated Parmesan cheese
+2 tablespoons bread crumbs
+
+Preheat oven to 375F.  Lightly butter a shallow baking dish.  Place chicken
+in baking dish and sprinkle with salt, pepper, scallions, parsley, and
+thyme.  In a measuring cup combine broth and wine and pour over chicken.
+Cover and bake 20 minutes.  In a small bowl combine cheeses and bread
+crumbs.  Remove chicken from oven and sprinkle with cheese mixture.  Dot
+with remaining butter and place under broiler until cheese is melted and
+golden.
+
+
+BERLINER SCHNITZEL BREAST  Serves 4
+
+You'll notice that the "hard-cooked" egg in this recipe isn't called
+"hard-boiled." The reason is that the egg producers tell me that it's better
+never to boil an egg, but rather to cook it until it's hard in water that's
+just below boiling.  If you cook your eggs in boiling water, they'll end up
+with an unattractive greenish color where the yolk meets the white. At lower
+temperatures, the yolk will be more tender and won't discolor.
+
+1 roaster boneless breast or a package of thin sliced boneless roaster
+breast.
+2 eggs
+3/4 teaspoon salt or to taste
+Ground pepper to taste
+1/3 cup flour
+1 cup dry breadcrumbs
+vegetable oil
+6 tablespoons butter or margarine
+2 tablespoons fresh lemon juice
+3 tablespoons capers, drained
+1 hard-cooked egg, finely chopped
+2 tablespoons minced fresh parsley
+
+Separate fillets from breast halves and then cut breast halves in half,
+lengthwise. Place breast pieces between sheets of plastic wrap.  Pound
+chicken to a 1/4-inch thickness to form scaloppine.  If using thin sliced
+breast skip this step.  In a shallow bowl beat eggs with salt and pepper.
+Place flour and bread crumbs
+
+
+
+
+
+End of
+The Perdue Chicken Cookbook
+by Mitzi Perdue
+Copyright (C) Mitzi Perdue
+
