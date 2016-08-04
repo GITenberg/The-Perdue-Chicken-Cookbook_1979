@@ -1,0 +1,24 @@
+_repo: The-Perdue-Chicken-Cookbook_1979
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Perdue, Mitzi
+    gutenberg_agent_id: '770'
+    url: http://www.gutenberg.org/2009/agents/770
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '1999-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1979'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Cooking (Chicken)'
+- !lcsh 'Cookbooks'
+- !lcc 'TX'
+- GITenberg
+title: The Perdue Chicken Cookbook
+url: http://www.gutenberg.org/ebooks/1979
