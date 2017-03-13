@@ -1,11 +1,16 @@
 _repo: The-Perdue-Chicken-Cookbook_1979
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Perdue, Mitzi
     gutenberg_agent_id: '770'
     url: http://www.gutenberg.org/2009/agents/770
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1979#The-Perdue-Chicken-Cookbook
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '1999-11-01'
 gutenberg_type: Text
